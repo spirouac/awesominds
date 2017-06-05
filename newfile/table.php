@@ -1,3 +1,4 @@
+/*--need to put select statments and connect to database than hardcoding to make table*/
 <html>
 <head>
 <link rel = "stylesheet"
