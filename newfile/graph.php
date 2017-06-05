@@ -1,4 +1,8 @@
-<?php // content="text/plain; charset=utf-8"
+
+<?php 
+//need to put select statements and coonect to database instead of hardcoding data to make graph.
+// content="text/plain; charset=utf-8"
+//download directory from jpgraph.net
 require_once ('jpgraph/src/jpgraph.php');
 require_once ('jpgraph/src/jpgraph_line.php');
 
